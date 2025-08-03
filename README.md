@@ -23,6 +23,8 @@ sudo apt-get install python3-m2crypto
 ```
 python3 CertGenBox_v2.1.py
 ```
+<img src="https://github.com/xnigel/CertGenBox/blob/main/CertGenBox_1.png" width =250> <img src="https://github.com/xnigel/CertGenBox/blob/main/CertGenBox_2.png" width =250>
+
 
 # Conclusion
 
